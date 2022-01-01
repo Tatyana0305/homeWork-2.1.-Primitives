@@ -5,6 +5,7 @@ public class Main {
         int milePrice = 20;
         long bonus = ticketPrice / milePrice;
 
+
         System.out.println("Ваш бонус: " + (bonus));
     }
 }
